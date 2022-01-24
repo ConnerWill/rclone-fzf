@@ -20,3 +20,19 @@ jobs:
     - uses: actions/labeler@v2
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
+
+# Add 'repo' label to any root file changes
+repo:
+- '*'
+
+# Add 'bashscript' label to any change to *.sh files within the root dir
+bashscript:
+- '*.sh'
+
+# Add 'readme' label to any change to README.md files within the root dir
+readme:
+- 'README.md'
+
+# Add 'media' label to any change to media files within the media dir
+media:
+- 'media/**'
