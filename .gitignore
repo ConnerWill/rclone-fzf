@@ -8,5 +8,5 @@
 *.ORIG
 *.org
 *.old
-*git-commit.sh*
+git-commit.sh
 
