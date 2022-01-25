@@ -1,0 +1,12 @@
+*.zsh_local_history
+*history*
+*backups*
+*development*
+*templates*
+*.BAK
+*.bak
+*.ORIG
+*.org
+*.old
+*git-commit.sh*
+
