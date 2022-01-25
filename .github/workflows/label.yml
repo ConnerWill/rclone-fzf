@@ -22,8 +22,8 @@ jobs:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
 
 # Add 'repo' label to any root file changes
-repo:
-- '*'
+  repo:
+  - '*'
 
 # Add 'bashscript' label to any change to *.sh files within the root dir
 bashscript:
