@@ -15,6 +15,7 @@
 ====================
 
 * [rclone-fzf](#rclone-fzf)
+* [Table of Contents](#table-of-contents)
 * [Overview](#overview)
 * [Installation](#installation)
 * [Usage](#usage)
