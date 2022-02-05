@@ -11,7 +11,7 @@
 
 # Table of Contents
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand table of contents</summary>
 ====================
 
 * [rclone-fzf](#rclone-fzf)
