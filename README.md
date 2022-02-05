@@ -91,6 +91,24 @@ git clone https://github.com/ConnerWill/rclone-fzf.git
 ### Hotkeys
 
 ## Environment Variables
+<!---
+**```RCLONEFZF_ENVVAR```**
+: rclone-fzf environment variable description.
+
+**```RCLONEFZF_REMOTE```**
+: rclone remote to use by default. ***[string]***
+*(eg. remoteName:, remoteName)*
+
+**```RCLONEFZF_ENVVAR```**
+: rclone-fzf environment variable description. ***[string]***
+
+**```RCLONEFZF_ENVVAR```**
+: rclone-fzf environment variable description. ***[string]***
+
+**```RCLONEFZF_ENVVAR```**
+: rclone-fzf environment variable description. ***[string]***
+--->
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
