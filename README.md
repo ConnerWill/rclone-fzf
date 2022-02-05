@@ -22,6 +22,8 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Customization](#customization)
+  * [Configuration File](##configuration-file)
+    * [Hotkeys](###hotkeys)
   * [Environment Variables](#environment-variables)
 * [Other](#other)
 
@@ -46,6 +48,10 @@ git clone https://github.com/ConnerWill/rclone-fzf.git
 # Usage
 
 # Customization
+
+## Configuration File
+
+### Hotkeys
 
 ## Environment Variables
 
