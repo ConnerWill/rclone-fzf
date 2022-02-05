@@ -1,4 +1,4 @@
-![fzf-rclone Banner](media/fzf-rclone-Banner.png)
+![rclone-fzf Banner](media/fzf-rclone-Banner.png)
 
 # fzf-rclone
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/fzf-rclone)
