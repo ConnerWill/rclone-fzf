@@ -40,8 +40,9 @@ rclone links[^rclone]
 2. Install [fzf](https://github.com/junegunn/fzf).
 3. Clone this repository.
 
-    git clone https://github.com/ConnerWill/rclone-fzf.git
-
+```console
+git clone https://github.com/ConnerWill/rclone-fzf.git
+```
 # Usage
 
 # Customization
