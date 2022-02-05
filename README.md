@@ -35,6 +35,8 @@ rclone links[^rclone]
 
 # Installation
 
+1. [Configure rclone remote](https://rclone.org/docs/#configure)
+
 # Usage
 
 # Customization
