@@ -22,6 +22,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Customization](#customization)
+  * [Environment Variables](#environment-variables)
 * [Other](#other)
 
   ---
@@ -37,6 +38,8 @@ rclone links[^rclone]
 # Usage
 
 # Customization
+
+## Environment Variables
 
 # Other
 
