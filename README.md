@@ -39,6 +39,9 @@ rclone links[^rclone]
 
 Documentation for setting up a rclone remote can be found [here](https://rclone.org/docs/#configure).
 
+2. Install fzf
+
+
 # Usage
 
 # Customization
