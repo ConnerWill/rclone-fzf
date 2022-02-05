@@ -3,8 +3,6 @@
 # **rclone-fzf**
 > **[*rclone-fzf*](https://github.com/ConnerWill/rclone-fzf) .**
 
-
-# rclone-fzf
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/fzf-rclone)
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/rclone-fzf)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/rclone-fzf)
