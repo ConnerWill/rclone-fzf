@@ -22,6 +22,10 @@
   * [Description](##description)
   * [Demo](##demo)
 * [Installation](#installation)
+  * [Dependencies](##dependencies)
+    * [rclone Installation](###rclone-installation)
+    * [fzf Installation](###fzf-installation)
+  * [Setup](##setup)
 * [Usage](#usage)
 * [Customization](#customization)
   * [Configuration File](##configuration-file)
@@ -41,10 +45,21 @@
 
 # Installation
 
+## Dependencies
+
+* rclone
+* fzf
+
+### rclone Installation
+
 1. Install rclone and [configure rclone remote](https://rclone.org/docs/#configure).
+
+### fzf Installation
 
 2. Install [fzf](https://github.com/junegunn/fzf).
 3. Clone this repository.
+
+## Setup
 
 ```console
 git clone https://github.com/ConnerWill/rclone-fzf.git
