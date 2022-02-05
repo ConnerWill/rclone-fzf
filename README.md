@@ -74,9 +74,9 @@
 
 1. Clone this repository
 
-```console
-git clone https://github.com/ConnerWill/rclone-fzf.git
-```
+  ```console
+  git clone https://github.com/ConnerWill/rclone-fzf.git
+  ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
