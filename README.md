@@ -35,9 +35,9 @@ rclone links[^rclone]
 
 # Installation
 
-1. Install rclone then [configure rclone remote](https://rclone.org/docs/#configure).
+1. Install rclone and [configure rclone remote](https://rclone.org/docs/#configure).
 
-2. Install fzf
+2. Install [fzf](https://github.com/junegunn/fzf).
 
 
 # Usage
