@@ -19,6 +19,8 @@
 * [rclone-fzf](#rclone-fzf)
 * [Table of Contents](#table-of-contents)
 * [Overview](#overview)
+  * [Description](##description)
+  * [Demo](##demo)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Customization](#customization)
@@ -33,7 +35,9 @@
   
 # Overview
 
-rclone links[^rclone]
+## Description
+
+## Demo
 
 # Installation
 
@@ -56,6 +60,8 @@ git clone https://github.com/ConnerWill/rclone-fzf.git
 ## Environment Variables
 
 # Other
+
+rclone links[^rclone]
 
 [Back to top](#rclone-fzf)
 
