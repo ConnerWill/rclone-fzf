@@ -9,12 +9,23 @@
 
 [**rclone-fzf**](https://github.com/ConnerWill/rclone-fzf) 
 
+# Table of Contents
+<details>
+  <summary>Click to expand!</summary>
+====================
+
 * [rclone-fzf](#rclone-fzf)
 * [Overview](#overview)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Customization](#customization)
 * [Other](#other)
+
+
+</details>  
+  
+
+
 
 # Overview
 
