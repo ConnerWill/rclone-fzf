@@ -35,7 +35,8 @@ rclone links[^rclone]
 
 # Installation
 
-1. [Configure rclone remote](https://rclone.org/docs/#configure)
+1. Install rclone then configure rclone remote
+Documentation for setting up a rclone remote can be found [here](https://rclone.org/docs/#configure).
 
 # Usage
 
