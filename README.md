@@ -12,8 +12,9 @@
 # Table of Contents
 <details>
   <summary>Click to expand table of contents</summary>
-====================
 
+  ---
+  
 * [rclone-fzf](#rclone-fzf)
 * [Table of Contents](#table-of-contents)
 * [Overview](#overview)
