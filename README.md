@@ -23,12 +23,10 @@
 * [Customization](#customization)
 * [Other](#other)
 
+  ---
 
 </details>  
   
-
-
-
 # Overview
 
 # Installation
