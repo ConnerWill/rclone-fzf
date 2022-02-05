@@ -60,14 +60,15 @@
 
 ### rclone Installation
 
-1. Install rclone and [configure rclone remote](https://rclone.org/docs/#configure).
+1. Install rclone and [configure rclone remote](https://rclone.org/docs/#configure)
 
 ### fzf Installation
 
-2. Install [fzf](https://github.com/junegunn/fzf).
-3. Clone this repository.
+2. Install [fzf](https://github.com/junegunn/fzf)
 
 ## Setup
+
+1. Clone this repository
 
 ```console
 git clone https://github.com/ConnerWill/rclone-fzf.git
