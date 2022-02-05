@@ -1,15 +1,15 @@
 ![rclone-fzf Banner](media/fzf-rclone-Banner.png)
 
-# fzf-rclone
+# rclone-fzf
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/fzf-rclone)
-![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/fzf-rclone)
-![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/fzf-rclone)
-![GitHub](https://img.shields.io/github/license/ConnerWill/fzf-rclone)
-![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/fzf-rclone?style=social)
+![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/rclone-fzf)
+![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/rclone-fzf)
+![GitHub](https://img.shields.io/github/license/ConnerWill/rclone-fzf)
+![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/rclone-fzf?style=social)
 
-[**fzf-rclone.sh**](https://github.com/ConnerWill/fzf-rclone) 
+[**rclone-fzf**](https://github.com/ConnerWill/rclone-fzf) 
 
-* [fzf-rclone](#fzf-rclone)
+* [rclone-fzf](#rclone-fzf)
 * [Overview](#overview)
 * [Installation](#installation)
 * [Usage](#usage)
