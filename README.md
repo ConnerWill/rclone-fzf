@@ -40,12 +40,16 @@ rclone links[^rclone]
 
 # Other
 
+
+<!---
+
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].  
 
 You can also use words, to fit your writing style more closely[^note].
-<!---
+
+
 <details>
   <summary>Click to expand table of contents</summary>
 
