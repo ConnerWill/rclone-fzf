@@ -9,7 +9,6 @@
 ![GitHub](https://img.shields.io/github/license/ConnerWill/rclone-fzf)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/rclone-fzf?style=social)
 
-[**rclone-fzf**](https://github.com/ConnerWill/rclone-fzf) 
 
 # Table of Contents
 <details>
