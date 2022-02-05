@@ -1,14 +1,22 @@
-![rclone-fzf Banner](media/fzf-rclone-Banner.png)
+<div align="center">
+
+<img width="480" height="320" src="/media/rclone-fzf-banner.png">
 
 # **rclone-fzf**
-> **[*rclone-fzf*](https://github.com/ConnerWill/rclone-fzf) allows you to search, browse, and interact with a [rclone](https://github.com/rclone/rclone) [remote](https://rclone.org/#providers) using [fzf](https://github.com/junegunn/fzf).**
 
+### **fzf for rclone**
+> *[*rclone-fzf*](https://github.com/ConnerWill/rclone-fzf) allows you to search, browse, and interact with a [rclone](https://github.com/rclone/rclone) [remote](https://rclone.org/#providers) using [fzf](https://github.com/junegunn/fzf).*
+  
+  
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/fzf-rclone)
-![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/rclone-fzf)
-![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/rclone-fzf)
-![GitHub](https://img.shields.io/github/license/ConnerWill/rclone-fzf)
-![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/rclone-fzf?style=social)
+![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/fzf-rclone)
+![GitHub repo size](https://img.shields.io/github/repo-size/ConnerWill/fzf-rclone)
+[![GitLab](https://img.shields.io/static/v1?label=gitlab&logo=gitlab&color=E24329&message=mirrored)](https://gitlab.com/ConnerWill/fzf-rclone)
+![GitHub](https://img.shields.io/github/license/ConnerWill/fzf-rclone)
+![GitHub Repo stars](https://img.shields.io/github/stars/ConnerWill/fzf-rclone?style=social)
 
+---
+</div>
 
 # Table of Contents
 <details>
