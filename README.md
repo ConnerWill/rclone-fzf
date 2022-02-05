@@ -59,5 +59,6 @@ You can also use words, to fit your writing style more closely[^note].
 [^rclone]:
     [rclone website](https://rclone.org)
     [rclone github](https://github.com/rclone/rclone)
+    
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new 
