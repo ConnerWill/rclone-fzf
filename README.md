@@ -1,8 +1,7 @@
 <div align="center">
-
+<!---
 <img width="480" height="320" src="/media/rclone-fzf-banner.png">
-
-# **rclone-fzf**
+--->
 
 ### **fzf for rclone**
 > *[*rclone-fzf*](https://github.com/ConnerWill/rclone-fzf) allows you to search, browse, and interact with a [rclone](https://github.com/rclone/rclone) [remote](https://rclone.org/#providers) using [fzf](https://github.com/junegunn/fzf).*
